@@ -1,4 +1,4 @@
 # cpp_starter_project
 C++ starter project
 
-test git config
+test git config2
